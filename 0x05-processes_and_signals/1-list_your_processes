@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
-# Displays a list of currently running processes for all users
-# in a user-oriented format according to their process hierarchy
-ps -faux
+# list all my currently running processes
+
+# source: https://linuxize.com/post/ps-command-in-linux/
+ps -auxf
