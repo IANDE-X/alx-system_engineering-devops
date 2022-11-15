@@ -1,0 +1,21 @@
+DevOps
+Shell
+Bash
+Syscall
+Scripting
+@@ Resources
+@@ Read or watch:
+
+@@ Linux PID
+@@ Linux process
+@@ Linux signal
+@@ Process management in linux
+@@ man or help:
+
+@@ ps
+@@ pgrep
+@@ pkill
+@@ kill
+@@ exit
+! trap
+Author: Ian mwenesi
